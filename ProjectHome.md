@@ -1,0 +1,1 @@
+Scripts for extracting information from text files resulting from applying OCR software to specific types of memos.
